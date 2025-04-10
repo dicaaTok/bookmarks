@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bookmarks</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="start">Список дел</string>
+    <string name="EditText">Какие планы?</string>
+    <string name="button">Добавить</string>
+
+</resources>
